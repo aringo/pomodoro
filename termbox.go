@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carlmjohnson/pomodoro/display"
+	"github.com/aringo/pomodoro/display"
 	"github.com/nsf/termbox-go"
 )
 
